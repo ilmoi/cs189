@@ -4,11 +4,8 @@ Exercises for [CS189/289A: Introduction to Machine Learning](https://people.eecs
 
 ## Setup
 
-python venv in each homework. Example for hw1:
+activate python venv:
 
-1. Make sure you are in the `hw1` directory
-2. Activate the virtual environment:
 ```bash
-source hw1/bin/activate  # On Unix/macOS
+source hw1/bin/activate  
 ```
-3. Run the Jupyter notebooks and Python scripts from within this environment# cs189
