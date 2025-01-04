@@ -1,4 +1,4 @@
-# CS189/289A Homework 1
+# CS189
 
 Exercises for [CS189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/).
 
