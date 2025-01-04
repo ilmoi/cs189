@@ -4,7 +4,7 @@ Exercises for [CS189/289A: Introduction to Machine Learning](https://people.eecs
 
 ## Setup
 
-python venv in each homework:
+python venv in each homework. Example for hw1:
 
 1. Make sure you are in the `hw1` directory
 2. Activate the virtual environment:
