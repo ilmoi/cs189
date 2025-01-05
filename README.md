@@ -9,3 +9,9 @@ activate python venv:
 ```bash
 source hw1/bin/activate  
 ```
+
+if you want to use your own env:
+
+```bash
+pip install scikit-learn scipy numpy matplotlib pandas
+```
